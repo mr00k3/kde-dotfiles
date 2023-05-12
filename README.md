@@ -1,7 +1,9 @@
 # My KDE rice dotfiles
+
 <p align="center">
   <img src="https://i.imgur.com/KNgwT1i.png"/>
 </p>
+
 ## Themes etc
 + Modified spicetify Theme [Sleek](https://github.com/spicetify/spicetify-themes/tree/master/Sleek)
 + Upcoming Own BetterDiscord Theme
